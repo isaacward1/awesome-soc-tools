@@ -3,7 +3,7 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 🍒 - tool requires an account for useful/full functionality
 
-**👉 [Bookmarks.html]() for browser import**
+👉 [Bookmarks.html]() for browser import
 
 <br>
 
@@ -47,6 +47,8 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 [CrowdSec CTI](https://app.crowdsec.net/cti) - community reporting on malicious IP activity 🍒
 
 [InQuest Labs](https://labs.inquest.net/) - IP/domain/hash search, sometimes cracked, most times trash
+
+[Silent Push](https://explore.silentpush.com/) - passive DNS, infrastructure mapping, WHOIS, web scans, etc. 🍒
 
 <br>
 
@@ -173,14 +175,17 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [crt.sh](https://crt.sh/) - lookup domain SSL/TLS certificate history
 
-[GCK Filesig Search](https://filesig.search.org/) - identify files via headers/trailers 
+[GCK Filesig Search](https://filesig.search.org/) - identify files via headers/trailers
 
-[VirusTotal Sources](https://docs.virustotal.com/docs/contributors) - scanning engines, sandboxes, repositories, and datasets used by VirusTotal
+<br>
 
+## Good Lists 👌
 [hslatman/awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) - curated list of threat intel tools, feeds, APIs, and platforms
 
 [rshipp/awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) - resources for static/dynamic malware analysis, online sandboxes, reversing engineering, etc.
 
 [0x4D31/awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection) - curated list of threat detection and hunting resources, rules, and frameworks
+
+[VirusTotal Contributors](https://docs.virustotal.com/docs/contributors) - scanning engines, sandboxes, repositories, and datasets used by VirusTotal
 
 <br>
