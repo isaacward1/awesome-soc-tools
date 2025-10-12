@@ -180,11 +180,11 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 <br>
 
 ## Good Lists 👌
-[hslatman/awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) - curated list of threat intel tools, feeds, APIs, and platforms
+[awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) - curated list of threat intel tools, feeds, APIs, and platforms
 
-[rshipp/awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) - resources for static/dynamic malware analysis, online sandboxes, reversing engineering, etc.
+[awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) - resources for static/dynamic malware analysis, online sandboxes, reversing engineering, etc.
 
-[0x4D31/awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection) - curated list of threat detection and hunting resources, rules, and frameworks
+[awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection) - curated list of threat detection and hunting resources, rules, and frameworks
 
 [VirusTotal Contributors](https://docs.virustotal.com/docs/contributors) - scanning engines, sandboxes, repositories, and datasets used by VirusTotal
 
