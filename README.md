@@ -50,6 +50,8 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [Silent Push](https://explore.silentpush.com/) - passive DNS, infrastructure mapping, WHOIS, web scans, etc. 🍒
 
+[Maltiverse](https://maltiverse.com/intelligence/search) - {desc}
+
 <br>
 
 ## Malware Analysis
