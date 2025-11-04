@@ -168,6 +168,8 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [ONYPHE](https://search.onyphe.io/) - HTML source, certificate info, many categories
 
+[Online Nmap](https://pentest-tools.com/network-vulnerability-scanning/port-scanner-online-nmap) - Online port scanner, service fingerprinting
+
 <br>
 
 ## Other
