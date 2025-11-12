@@ -160,7 +160,7 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [Shodan](https://www.shodan.io/search/advanced) - search exposed devices; subdomains and related IPs, services, banners, vulnerabilities
 
-[FOFA](https://en.fofa.info/) - asset protocol/service fingerprinting, JARM/JA3/body_hash search, Chinese internet visibility? (dont click the hyperlinks above search results 🤦‍♂️)
+[FOFA](https://en.fofa.info/) - asset protocol/service fingerprinting, JARM/JA3/body_hash search, Chinese internet visibility?
 
 [ZoomEye](https://www.zoomeye.ai/) - basically FOFA, another host search engine, built on XMap 🍒
 
