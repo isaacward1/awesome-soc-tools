@@ -52,6 +52,8 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [Maltiverse](https://maltiverse.com/intelligence/search) - {desc}
 
+[Rösti](https://rosti.bin.re/search) - repackaged threat intelligence IOCs gathered from public reports/blogs
+
 <br>
 
 ## Malware Analysis
@@ -180,6 +182,8 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 [crt.sh](https://crt.sh/) - lookup domain SSL/TLS certificate history
 
 [GCK Filesig Search](https://filesig.search.org/) - identify files via headers/trailers
+
+[Grep by Vercel](https://grep.app/) - search strings across millions of GitHub repos
 
 <br>
 
