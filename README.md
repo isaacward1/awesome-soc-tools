@@ -161,7 +161,7 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [IPVoid](https://www.ipvoid.com/) - IP blacklist check, whois, ping, networking tools, etc.
 
-[Hacker Target | IP Tools](https://hackertarget.com/ip-tools/) - ASN lookup, DNS records, Whois
+[Hacker Target | IP Tools](https://hackertarget.com/ip-tools/) - AS lookup, DNS records, Whois
 
 <br>
 
