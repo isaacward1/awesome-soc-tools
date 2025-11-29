@@ -3,7 +3,7 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 🍒 - tool requires an account for useful/full functionality
 
-👉 [bookmarks.html](bookmarks.html) for browser import
+👉 [bookmarks.html](bookmarks.html) for browser import (might not be updated)
 
 <br>
 
@@ -99,6 +99,12 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [CAPEv2 Search](https://capesandbox.com/analysis/search/) - hash search, file upload, behavioral/network analysis
 
+[IRIS-H Digital Forensics](https://iris-h.services/pages/dashboard#/pages/dashboard) - {desc}
+
+[Manalyzer](https://manalyzer.org/) - {desc}
+
+[YOMI](https://yomi.yoroi.company/upload) - {desc}
+
 <br>
 
 ## Webpage Analysis
@@ -153,7 +159,7 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [IPVoid](https://www.ipvoid.com/) - IP blacklist check, whois, ping, networking tools, etc.
 
-[Hacker Target](https://hackertarget.com/as-ip-lookup/) - ASN Lookup
+[Hacker Target](https://hackertarget.com/as-ip-lookup/) - ASN lookup; couple other useful things under "Tools"
 
 <br>
 
@@ -186,6 +192,8 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 [GCK Filesig Search](https://filesig.search.org/) - identify files via headers/trailers
 
 [Grep by Vercel](https://grep.app/) - search strings across millions of GitHub repos
+
+[SG Ports Database](https://www.speedguide.net/ports.php) - seach port number for associated application/service/threat
 
 <br>
 
