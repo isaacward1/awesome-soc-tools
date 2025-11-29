@@ -116,6 +116,8 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [Wappalyzer](https://www.wappalyzer.com/) - website technology stack profiler 🍒
 
+[WhatWeb](https://whatweb.net/) - another website technology stack profiler
+
 [BuiltWith](https://builtwith.com/) - another website technology stack profiler
 
 [urlquery.net](https://urlquery.net/) - analyze URL behavior, detect redirects, extract IOCs
@@ -159,7 +161,7 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [IPVoid](https://www.ipvoid.com/) - IP blacklist check, whois, ping, networking tools, etc.
 
-[Hacker Target](https://hackertarget.com/as-ip-lookup/) - ASN lookup; couple other useful things under "Tools"
+[Hacker Target | IP Tools](https://hackertarget.com/ip-tools/) - ASN lookup, DNS records, Whois
 
 <br>
 
