@@ -56,6 +56,8 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [Rösti](https://rosti.bin.re/search) - repackaged threat intelligence IOCs gathered from public reports/blogs
 
+[SCUMWARE.org](https://www.scumware.org/search.php) - {desc}
+
 [VulDB CTI](https://vuldb.com/?cti) - {desc}
 
 <br>
