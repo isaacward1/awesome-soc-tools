@@ -46,15 +46,15 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [CrowdSec CTI](https://app.crowdsec.net/cti) - community reporting on malicious IP activity 🍒
 
-[InQuest Labs](https://labs.inquest.net/) - IP/domain/hash search, sometimes cracked, most times trash
+[InQuest Labs](https://labs.inquest.net/) - IP/domain/hash search; sometimes cracked, most times trash
+
+[Validin](https://app.validin.com) - {desc} 🍒
 
 [Silent Push](https://explore.silentpush.com/) - passive DNS, infrastructure mapping, WHOIS, web scans, etc. 🍒
 
 [Maltiverse](https://maltiverse.com/intelligence/search) - {desc}
 
 [Rösti](https://rosti.bin.re/search) - repackaged threat intelligence IOCs gathered from public reports/blogs
-
-[Validin](https://app.validin.com) - {desc}
 
 <br>
 
