@@ -54,6 +54,8 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [Rösti](https://rosti.bin.re/search) - repackaged threat intelligence IOCs gathered from public reports/blogs
 
+[Validin](https://app.validin.com) - {desc}
+
 <br>
 
 ## Malware Analysis
