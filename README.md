@@ -8,8 +8,6 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 <br>
 
 ## General
-[CyberChef](https://gchq.github.io/CyberChef/) - de(en)coding, parsing and data extraction, text transformation, etc.
-
 [VirusTotal](https://www.virustotal.com/gui/home/upload) - file/url scanning, multi-AV detection, contextualization, community insight
 
 [OTX AlienVault](https://otx.alienvault.com/browse/global/pulses?include_inactive=0&sort=-modified&page=1&limit=10) - community-driven threat intel, threat feeds, IOC correlation
@@ -18,11 +16,15 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [URLhaus](https://urlhaus.abuse.ch/browse/) - active malware URL feeds, payload hosting, takedown tracking
 
-[AbuseIPDB](https://www.abuseipdb.com/) - IP reputation checks, abuse reports, community-driven blacklisting
-
 [IOC Radar](https://socradar.io/labs/app/ioc-radar) - IOC aggregation, severity score, MITRE and threat tags, AI insight
 
 [ThreatBook CTI](https://i.threatbook.io/research) - APT and campaign association, AI summary, related files
+
+[Validin](https://app.validin.com) - {desc} 🍒
+
+[Silent Push](https://explore.silentpush.com/) - passive DNS, infrastructure mapping, WHOIS, web scans, etc. 🍒
+
+[AbuseIPDB](https://www.abuseipdb.com/) - IP reputation checks, abuse reports, community-driven blacklisting
 
 [SecureFeed](https://www.securefeed.com/) - real-time feed aggregation, tagging, automated enrichment
 
@@ -36,9 +38,11 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [SecurityTrails](https://securitytrails.com/app/account) - Historical DNS records, subdomains 🍒
 
-[ThreatMiner](https://www.threatminer.org/index.php) - IOC search, passive DNS, malware/URL association
+[threatYeti](https://threatyeti.com/) - {desc}
 
 [MalwareURL](https://www.malwareurl.com/) - URL/IP/domain reputation check
+
+[ThreatMiner](https://www.threatminer.org/index.php) - IOC search, passive DNS, malware/URL association
 
 [Pulsedive](https://pulsedive.com/dashboard/) - threat indicator enrichment, risk scoring, feed integration
 
@@ -48,10 +52,6 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [InQuest Labs](https://labs.inquest.net/) - IP/domain/hash search; sometimes cracked, most times trash
 
-[Validin](https://app.validin.com) - {desc} 🍒
-
-[Silent Push](https://explore.silentpush.com/) - passive DNS, infrastructure mapping, WHOIS, web scans, etc. 🍒
-
 [Maltiverse](https://maltiverse.com/intelligence/search) - {desc}
 
 [Rösti](https://rosti.bin.re/search) - repackaged threat intelligence IOCs gathered from public reports/blogs
@@ -59,6 +59,8 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 [SCUMWARE.org](https://www.scumware.org/search.php) - {desc}
 
 [VulDB CTI](https://vuldb.com/?cti) - {desc}
+
+[IPIntel.ai](https://ipintel.ai/) - {desc}
 
 <br>
 
@@ -75,19 +77,25 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [Joe Sandbox](https://www.joesandbox.com/#windows) - deep sandbox reports, static/dynamic/code analysis 🍒
 
+[Recorded Future Triage](https://tria.ge/s) - malware sandbox analysis, auto-tagging, IOC extraction
+
 [Kaspersky Opentip](https://opentip.kaspersky.com/requests?tab=upload) - hash/domain/file lookups, Kaspersky verdicts
 
 [Threat.Zone](https://app.threat.zone/scan) - file/URL analysis, AV engines, behavior report export
 
 [Threat.Rip](https://threat.rip/) - IOC search engine, IP/domain/file enrichment, OSINT aggregation
 
-[Recorded Future Triage](https://tria.ge/s) - malware sandbox analysis, auto-tagging, IOC extraction
-
 [VirusSign](https://www.virussign.com/malware-scan/) - file scanning, malware hash lookup, sandbox results
 
 [VMRay Threat Feed](https://threatfeed.vmray.com/) -  live malware scan feeds, hash/URL report search, YARA matches
 
 [PolySwarm](https://polyswarm.network/) - multi-engine scanning, threat scoring, threat market integration
+
+[Cuckoo Sandbox v2](https://cuckoo.cert.ee/dashboard/) - not maintained, demo instance of Cuckoo Sandbox v2, long queue time
+
+[Cuckoo Sandbox v3](https://cuckoo-hatch.cert.ee/submit/#submit-file) - upload files/search scans, static analysis, signature matching, multiple AV engine verdicts
+
+[CAPEv2 Search](https://capesandbox.com/analysis/search/) - hash search, file upload, behavioral/network analysis
 
 [CyberFortress Threat List](https://cyber-fortress.com/threat-list/) - curated IOC lists, malware hashes, indicators
 
@@ -101,10 +109,6 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [Docguard](https://www.docguard.io/) - document threat detection, macro analysis, static + behavioral checks
 
-[Cuckoo Sandbox](https://cuckoo.cert.ee/dashboard/) - not maintained, demo instance of Cuckoo Sandbox, long scan queue
-
-[CAPEv2 Search](https://capesandbox.com/analysis/search/) - hash search, file upload, behavioral/network analysis
-
 [IRIS-H Digital Forensics](https://iris-h.services/pages/dashboard#/pages/dashboard) - {desc}
 
 [Manalyzer](https://manalyzer.org/) - {desc}
@@ -116,21 +120,9 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 ## Webpage Analysis
 [urlscan.io](https://urlscan.io/) - scans and screenshots URLs, captures page structure, passive DNS, IOC extraction
 
-[curl Online](https://reqbin.com/curl) - test HTTP requests (GET, POST, etc.), view headers/responses, webpage preview
-
-[Wayback Machine](https://web.archive.org/) - view archived versions of websites, check defacements/changes
-
-[Wappalyzer](https://www.wappalyzer.com/) - website technology stack profiler 🍒
-
-[WhatWeb](https://whatweb.net/) - another website technology stack profiler
-
-[BuiltWith](https://builtwith.com/) - another website technology stack profiler
-
 [urlquery.net](https://urlquery.net/) - analyze URL behavior, detect redirects, extract IOCs
 
 [Cloudflare Radar](https://radar.cloudflare.com/scan) - Cloudflare’s verdict, screenshot, HTTP transactions, HTML source, indicators
-
-[CheckPhish](https://checkphish.bolster.ai/) - detect phishing pages, expand URLs, screenshot, check redirection
 
 [URLVoid](https://www.urlvoid.com/) -  URL/domain reputation, blacklist check, basic metadata
 
@@ -142,15 +134,29 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [URL2PNG](https://www.url2png.com/) - generate real-time screenshots of webpages
 
-[Sucuri SiteCheck](https://sitecheck.sucuri.net/) - malware scanner for websites, blacklist status, security headers
+[curl Online](https://reqbin.com/curl) - test HTTP requests (GET, POST, etc.), view headers/responses, webpage preview
 
-[FortiGuard Web Filter](https://fortiguard.fortinet.com/webfilter) - URL category lookup, threat reputation check
+[Wayback Machine](https://web.archive.org/) - view archived versions of websites, check defacements/changes
+
+[Wappalyzer](https://www.wappalyzer.com/) - website technology stack profiler 🍒
+
+[WhatWeb](https://whatweb.net/) - another website technology stack profiler
+
+[BuiltWith](https://builtwith.com/) - another website technology stack profiler
+
+[Netcraft](https://sitereport.netcraft.com/) - {desc}
+
+[CheckPhish](https://checkphish.bolster.ai/) - detect phishing pages, expand URLs, screenshot, check redirection
+
+[ExpandURL](https://www.expandurl.net/) - expands a shortened URL
 
 [deobfuscate.io](https://deobfuscate.io/) - good JavaScript deobfuscator
 
 [de4js](https://lelinhtinh.github.io/de4js/) - another good JavaScript deobfuscator
 
-[ExpandURL](https://www.expandurl.net/) - expands a shortened URL
+[Sucuri SiteCheck](https://sitecheck.sucuri.net/) - malware scanner for websites, blacklist status, security headers
+
+[FortiGuard Web Filter](https://fortiguard.fortinet.com/webfilter) - URL category lookup, threat reputation check
 
 <br>
 
@@ -172,11 +178,11 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 <br>
 
 ## Internet Asset Recon
-[Censys](https://search.censys.io/) - DNS/routing info, service fingerprinting, certificates, open ports
-
 [Netify](https://www.netify.ai/resources/ips) - IP/hostname technology stack (platform/app/network), public bot/web scraper list
 
 [Shodan](https://www.shodan.io/search/advanced) - search exposed devices; subdomains and related IPs, services, banners, vulnerabilities
+
+[Censys](https://search.censys.io/) - DNS/routing info, service fingerprinting, certificates, open ports
 
 [FOFA](https://en.fofa.info/) - asset protocol/service fingerprinting, JARM/JA3/body_hash search, Chinese internet visibility?
 
@@ -191,17 +197,19 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 <br>
 
 ## Other
+[CyberChef](https://gchq.github.io/CyberChef/) - de(en)coding, parsing and data extraction, text transformation, etc.
+
 [EveBox](https://rules.evebox.org/search) - IDS/IPS rule search, ruleset catalog, rule changelog
 
-[OUI Lookup](https://www.wireshark.org/tools/oui-lookup.html) - search OUI of MAC address for vendor information. Supports all formats.
+[Grep by Vercel](https://grep.app/) - search strings across millions of GitHub repos
+
+[SG Ports Database](https://www.speedguide.net/ports.php) - seach port number for associated application/service/threat
 
 [crt.sh](https://crt.sh/) - lookup domain SSL/TLS certificate history
 
 [GCK Filesig Search](https://filesig.search.org/) - identify files via headers/trailers
 
-[Grep by Vercel](https://grep.app/) - search strings across millions of GitHub repos
-
-[SG Ports Database](https://www.speedguide.net/ports.php) - seach port number for associated application/service/threat
+[OUI Lookup](https://www.wireshark.org/tools/oui-lookup.html) - search OUI of MAC address for vendor information. Supports all formats.
 
 <br>
 
@@ -215,3 +223,8 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 [VirusTotal Contributors](https://docs.virustotal.com/docs/contributors) - scanning engines, sandboxes, repositories, and datasets used by VirusTotal
 
 <br>
+
+
+
+
+
