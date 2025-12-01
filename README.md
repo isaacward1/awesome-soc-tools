@@ -93,7 +93,7 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [Cuckoo Sandbox v2](https://cuckoo.cert.ee/dashboard/) - not maintained, demo instance of Cuckoo Sandbox v2, long queue time
 
-[Cuckoo Sandbox v3](https://cuckoo-hatch.cert.ee/submit/#submit-file) - upload files/search scans, static analysis, signature matching, multiple AV engine verdicts
+[Cuckoo Sandbox v3](https://cuckoo-hatch.cert.ee/submit/#submit-file) - static analysis, signature matching, multiple AV engine verdicts
 
 [CAPEv2 Search](https://capesandbox.com/analysis/search/) - hash search, file upload, behavioral/network analysis
 
