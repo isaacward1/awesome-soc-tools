@@ -115,6 +115,8 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [YOMI](https://yomi.yoroi.company/upload) - {desc}
 
+[Unprotect Project Scan](https://www.unprotect.it/scan/) - {desc}
+
 <br>
 
 ## Webpage Analysis
