@@ -62,6 +62,8 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [IPIntel.ai](https://ipintel.ai/) - {desc}
 
+[IPThreat.net](https://ipthreat.net/) - {desc}
+
 <br>
 
 ## Malware Analysis
