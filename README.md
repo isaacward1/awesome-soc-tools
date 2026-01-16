@@ -50,7 +50,7 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [CrowdSec CTI](https://app.crowdsec.net/cti) - community reporting on malicious IP activity 🍒
 
-[InQuest Labs](https://labs.inquest.net/) - IP/domain/hash search; sometimes cracked, most times trash
+[InQuest Labs](https://labs.inquest.net/) - (defunct) IP/domain/hash search; sometimes cracked
 
 [Maltiverse](https://maltiverse.com/intelligence/search) - {desc}
 
@@ -81,17 +81,19 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [Recorded Future Triage](https://tria.ge/s) - malware sandbox analysis, auto-tagging, IOC extraction
 
-[Kaspersky Opentip](https://opentip.kaspersky.com/requests?tab=upload) - hash/domain/file lookups, Kaspersky verdicts
+[Kaspersky OpenTIP](https://opentip.kaspersky.com/requests?tab=upload) - hash/domain/file lookups, Kaspersky verdicts
 
 [Threat.Zone](https://app.threat.zone/scan) - file/URL analysis, AV engines, behavior report export
 
-[Threat.Rip](https://threat.rip/) - IOC search engine, IP/domain/file enrichment, OSINT aggregation
+[Neiki](https://threat.rip/) - IOC search engine, IP/domain/file enrichment, OSINT aggregation
 
 [VirusSign](https://www.virussign.com/malware-scan/) - file scanning, malware hash lookup, sandbox results
 
 [VMRay Threat Feed](https://threatfeed.vmray.com/) -  live malware scan feeds, hash/URL report search, YARA matches
 
 [PolySwarm](https://polyswarm.network/) - multi-engine scanning, threat scoring, threat market integration
+
+[Malprob](https://malprob.io/) - {desc}
 
 [Cuckoo Sandbox v2](https://cuckoo.cert.ee/dashboard/) - not maintained, demo instance of Cuckoo Sandbox v2, long queue time
 
@@ -105,7 +107,7 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [Valkyrie Verdict](https://verdict.valkyrie.comodo.com/) -  file analysis, cloud sandboxing, automated verdict engine
 
-[GridinSoft Malware Check](https://gridinsoft.com/online-virus-scanner) - quick malware scans, file reputation
+[Gridinsoft Malware Check](https://gridinsoft.com/online-virus-scanner) - quick malware scans, file reputation
 
 [Dr.Web](https://vms.drweb.com/) - static file scanning, AV detection, Dr.Web threat insights
 
@@ -119,6 +121,11 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [Unprotect Project Scan](https://www.unprotect.it/scan/) - {desc}
 
+[ELF DIGEST](https://elfdigest.com/search) - Linux binary analysis search
+
+[Kunai Sandbox](https://sandbox.kunai.rocks/) - Linux sandboxes for detection engineers, PCAPs, JSON logs
+
+[Koodous](https://koodous.com/?tab=koodous) - APK analysis sandbox
 <br>
 
 ## Webpage Analysis
@@ -138,7 +145,7 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [URL2PNG](https://www.url2png.com/) - generate real-time screenshots of webpages
 
-[curl Online](https://reqbin.com/curl) - test HTTP requests (GET, POST, etc.), view headers/responses, webpage preview
+[Online Curl | ReqBin](https://reqbin.com/curl) - test HTTP requests (GET, POST, etc.), view headers/responses, webpage preview
 
 [Wayback Machine](https://web.archive.org/) - view archived versions of websites, check defacements/changes
 
@@ -162,6 +169,8 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [FortiGuard Web Filter](https://fortiguard.fortinet.com/webfilter) - URL category lookup, threat reputation check
 
+[Gridinsoft Site Reputation](https://gridinsoft.com/website-reputation-checker) - {desc}
+
 <br>
 
 ## DNS/IP Lookup
@@ -177,7 +186,7 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [IPVoid](https://www.ipvoid.com/) - IP blacklist check, whois, ping, networking tools, etc.
 
-[Hacker Target | IP Tools](https://hackertarget.com/ip-tools/) - AS lookup, DNS records, Whois
+[IP Tools | Hacker Target](https://hackertarget.com/ip-tools/) - AS lookup, DNS records, Whois
 
 <br>
 
@@ -196,7 +205,7 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [ONYPHE](https://search.onyphe.io/) - HTML source, certificate info, many categories
 
-[Online Nmap](https://pentest-tools.com/network-vulnerability-scanning/port-scanner-online-nmap) - Online port scanner, service fingerprinting
+[Nmap Online](https://pentest-tools.com/network-vulnerability-scanning/port-scanner-online-nmap) - Online port scanner, service fingerprinting
 
 <br>
 
@@ -215,6 +224,8 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [OUI Lookup](https://www.wireshark.org/tools/oui-lookup.html) - search OUI of MAC address for vendor information. Supports all formats.
 
+[Wallet Search | BlockExplorer](https://blockexplorer.one/) - search BTC, ETH, LTC, etc. wallet address/transactions
+
 <br>
 
 ## Good Lists 👌
@@ -227,8 +238,3 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 [VirusTotal Contributors](https://docs.virustotal.com/docs/contributors) - scanning engines, sandboxes, repositories, and datasets used by VirusTotal
 
 <br>
-
-
-
-
-
