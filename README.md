@@ -50,7 +50,7 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [CrowdSec CTI](https://app.crowdsec.net/cti) - community reporting on malicious IP activity 🍒
 
-[InQuest Labs](https://labs.inquest.net/) - (defunct) IP/domain/hash search; sometimes cracked
+[InQuest Labs](https://labs.inquest.net/) - [Defunct] IP/domain/hash search; sometimes cracked
 
 [Maltiverse](https://maltiverse.com/intelligence/search) - {desc}
 
