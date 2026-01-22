@@ -64,6 +64,8 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [IPThreat.net](https://ipthreat.net/) - {desc}
 
+[OpenSourceMalware](https://opensourcemalware.com/) - reported malware distribution sources (packages, repos, URLs/domains)
+
 <br>
 
 ## Malware Analysis
