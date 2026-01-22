@@ -160,7 +160,7 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [BuiltWith](https://builtwith.com/) - another website technology stack profiler
 
-[Netcraft](https://sitereport.netcraft.com/) - {desc}
+[Netcraft](https://sitereport.netcraft.com/) - another website technology stack profiler
 
 [CheckPhish](https://checkphish.bolster.ai/) - detect phishing pages, expand URLs, screenshot, check redirection
 
