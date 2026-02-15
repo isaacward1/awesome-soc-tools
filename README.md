@@ -81,7 +81,7 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [Joe Sandbox](https://www.joesandbox.com/#windows) - deep sandbox reports, static/dynamic/code analysis 🍒
 
-[Recorded Future Triage](https://tria.ge/s) - malware sandbox analysis, auto-tagging, IOC extraction
+[Triage](https://tria.ge/s) - malware sandbox analysis, auto-tagging, IOC extraction
 
 [Kaspersky OpenTIP](https://opentip.kaspersky.com/requests?tab=upload) - hash/domain/file lookups, Kaspersky verdicts
 
