@@ -16,7 +16,7 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [URLhaus](https://urlhaus.abuse.ch/browse/) - active malware URL feeds, payload hosting, takedown tracking
 
-[IOC Radar](https://socradar.io/labs/app/ioc-radar) - IOC aggregation, severity score, MITRE and threat tags, AI insight
+[IOC Radar](https://socradar.io/free-tools/ioc-radar) - IOC aggregation, severity score, MITRE and threat tags, AI insight
 
 [ThreatBook CTI](https://i.threatbook.io/research) - APT and campaign association, AI summary, related files
 
