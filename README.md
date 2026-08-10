@@ -54,7 +54,7 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [Maltiverse](https://maltiverse.com/intelligence/search) - IOC enrichment platform, threat scoring, relationships between IPs/domains/hashes, API
 
-[Rösti](https://rosti.bin.re/search) - repackaged threat intelligence IOCs gathered from public reports/blogs
+[Rösti](https://rosti.dev/search) - repackaged threat intelligence IOCs gathered from public reports/blogs
 
 [SCUMWARE.org](https://www.scumware.org/search.php) - lightweight IOC lookup, basic reputation checks for IPs/domains with aggregated blacklist data
 
