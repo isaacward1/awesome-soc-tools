@@ -60,6 +60,8 @@ A collection of free threat intelligence and enrichment tools for SOC triage
 
 [VulDB CTI](https://vuldb.com/?cti) - vulnerability and threat intelligence database, CVE correlation, risk scoring, and exploit references
 
+[CVE PoC Search](https://labs.jamessawyer.co.uk/cves/) - search public GitHub proof-of-concept repositories by CVE identifier
+
 [IPIntel.ai](https://ipintel.ai/) - IP/domain intelligence, risk scoring, geolocation, proxy/VPN detection, abuse classification
 
 [IPThreat.net](https://ipthreat.net/) - IP/domain reputation, blacklist aggregation, threat categorization, quick lookup for malicious activity
